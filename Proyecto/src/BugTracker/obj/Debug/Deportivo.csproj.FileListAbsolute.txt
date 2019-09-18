@@ -1,0 +1,10 @@
+D:\ConsultaProductoCapas-master\Deportivo\Proyecto\src\BugTracker\bin\Debug\BugTracker.exe.config
+D:\ConsultaProductoCapas-master\Deportivo\Proyecto\src\BugTracker\bin\Debug\BugTracker.exe
+D:\ConsultaProductoCapas-master\Deportivo\Proyecto\src\BugTracker\bin\Debug\BugTracker.pdb
+D:\ConsultaProductoCapas-master\Deportivo\Proyecto\src\BugTracker\obj\Debug\BugTracker.frmConsultaProductos.resources
+D:\ConsultaProductoCapas-master\Deportivo\Proyecto\src\BugTracker\obj\Debug\BugTracker.frmLogin.resources
+D:\ConsultaProductoCapas-master\Deportivo\Proyecto\src\BugTracker\obj\Debug\BugTracker.frmPrincipal.resources
+D:\ConsultaProductoCapas-master\Deportivo\Proyecto\src\BugTracker\obj\Debug\BugTracker.Properties.Resources.resources
+D:\ConsultaProductoCapas-master\Deportivo\Proyecto\src\BugTracker\obj\Debug\Deportivo.csproj.GenerateResource.Cache
+D:\ConsultaProductoCapas-master\Deportivo\Proyecto\src\BugTracker\obj\Debug\BugTracker.exe
+D:\ConsultaProductoCapas-master\Deportivo\Proyecto\src\BugTracker\obj\Debug\BugTracker.pdb

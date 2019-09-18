@@ -54,8 +54,6 @@ namespace BugTracker.DataAccessLayer
             //sin parametros
             strSql += "ORDER BY producto.nombre DESC";
 
-            Console.WriteLine("\n\n" + strSql + "\n\n");
-
             var resultadoConsulta = (DataRowCollection)DBHelper.GetDBHelper().ConsultaSQL(strSql).Rows;
 
             foreach (DataRow row in resultadoConsulta)
